@@ -1,0 +1,11 @@
+body{
+    background-color: skyblue;
+}
+
+h1{
+    color : cornflowerblue;
+}
+
+.active{
+    color : tomato;
+}
